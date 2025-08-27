@@ -1,3 +1,4 @@
+drop database if EXISTS blog01;
 create database blog01;
 use blog01;
 
